@@ -3,4 +3,4 @@ DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,counter.yadro.ru
 DOMAIN-SUFFIX,privacy-cs.mail.ru
 DOMAIN-SUFFIX,cabinet.adzone.ru
-DOMAIN-SUFFIX,dl3.gamedl.ru
+DOMAIN-SUFFIX,gamedl.ru
