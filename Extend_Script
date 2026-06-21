@@ -1,4 +1,4 @@
-// 本脚本修改参考教程https://youtu.be/Rmy6tq79_KA?si=dGj9QlXZ_F3eIqp8
+// 本脚本修改参考教程https://www.clashverge.dev/guide/script.html#_1
 // 国内DNS服务器
 const domesticNameservers = [
   "https://223.5.5.5/dns-query", // 阿里DoH
